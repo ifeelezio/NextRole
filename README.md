@@ -1,4 +1,4 @@
-# AI Resume Analyzer
+# NextRole - AI Resume Analyzer
 
 Upload a PDF resume, get an AI score with strengths, weaknesses and skill gaps, compare it against a job
 description, and generate interview questions.
